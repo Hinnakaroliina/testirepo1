@@ -1,3 +1,4 @@
 Noniin tässä sitä ollaan. Tämä on testi teksti tiedosto koneen repoon ja 
 kohta tämän opettelen siirtämään ja avaamaan githubissa.
 Sielä muokataan ja palautetaan koneelle. Huhhei.
+Tämä on Githubissa lisätty uusi rivi, ohhoh!
