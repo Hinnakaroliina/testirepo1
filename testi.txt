@@ -3,3 +3,4 @@ kohta tämän opettelen siirtämään ja avaamaan githubissa.
 Sielä muokataan ja palautetaan koneelle. Huhhei.
 Tämä on Githubissa lisätty uusi rivi, ohhoh!
 Githubissa muokkaus jatkuu.
+Koneella koodattu rivi, yritetään saada tämä takaisin githubiin!
